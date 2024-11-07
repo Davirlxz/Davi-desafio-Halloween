@@ -1,0 +1,13 @@
+body{
+    background-color:black; 
+    color: rgb(223, 206, 52);
+}
+img{
+    height: 80%;
+    width: 70%;
+}
+img:hover{
+    height: 80%;
+    width: 70%;
+    content: url(hq720.jpg);
+}
